@@ -5,3 +5,4 @@ st.write("Hello World")
 
 st.write("Deep Learning")
 
+st.image("img.jpg")
